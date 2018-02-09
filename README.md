@@ -12,5 +12,6 @@ Robin Wieruch.
 - Fetching data
 - Pagination
 - Error Handling
+- Lodash
 
 ** Instalation
