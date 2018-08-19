@@ -1,8 +1,7 @@
 # Hackernews
-__________________________________________________
 
 Hackernews is a React app that consumes an API to search for news about 
-technology topics. It is based on the book "The Road to lear React" by 
+technology topics. It is based on the book "The Road to learn React" by 
 Robin Wieruch.
 
 ## Key Topics

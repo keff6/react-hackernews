@@ -120,7 +120,7 @@ class App extends Component {
             searchKey, 
             error, 
             isLoading 
-           } = this.state;
+          } = this.state;
     const page = (results && results[searchKey] && results[searchKey].page) || 0; 
     const list = (
       results &&
